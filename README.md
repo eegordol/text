@@ -57,4 +57,5 @@
 Скриншотов сайта не осталось, нашел только некоторые рисунки. Вот такой был хедер и визитка.
 
 ![](i.png)
+
 Теги:[текст ссылки](https://habr.com/ru/search/?target_type=posts&order=relevance&q=%5B%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%5D)
